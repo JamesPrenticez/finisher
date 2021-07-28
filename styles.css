@@ -1,0 +1,17 @@
+body{ 
+    background: black;
+    margin:0; 
+}
+
+canvas { 
+    border: solid 1px gold;
+    position:relative;
+    background: green;
+}
+
+#holder {
+    display:block;
+    margin: 20px auto 0 auto;
+    width: 400px;
+    height: 400px;
+}
